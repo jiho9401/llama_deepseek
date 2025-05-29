@@ -1,0 +1,1502 @@
+[
+  {
+      "sentence": "She go to school every day.",
+      "answer": "아님",
+      "rational": "주어가 3인칭 단수이므로 동사는 'goes'가 되어야 합니다."
+  },
+  {
+      "sentence": "They have been working on this project since last year.",
+      "answer": "맞음",
+      "rational": "현재완료진행형과 'since'를 활용한 시점 표현이 적절하게 사용되었습니다."
+  },
+  {
+      "sentence": "He don’t like vegetables.",
+      "answer": "아님",
+      "rational": "3인칭 단수 주어 'He'에는 'doesn't'를 사용해야 합니다."
+  },
+  {
+      "sentence": "It was raining when I left the house.",
+      "answer": "맞음",
+      "rational": "과거진행형과 과거시제의 조합이 문맥상 자연스럽고 문법적으로 올바릅니다."
+  },
+  {
+      "sentence": "There is many problems with this solution.",
+      "answer": "아님",
+      "rational": "'problems'가 복수이므로 'There are'를 사용해야 합니다."
+  },
+  {
+      "sentence": "My sister has lived in Paris for five years.",
+      "answer": "맞음",
+      "rational": "'현재완료 + for + 기간' 구문이 정확하게 사용되었습니다."
+  },
+  {
+      "sentence": "I am agree with your opinion.",
+      "answer": "아님",
+      "rational": "'agree'는 상태동사이므로 'am' 없이 그냥 'I agree'라고 해야 합니다."
+  },
+  {
+      "sentence": "Each of the students have a textbook.",
+      "answer": "아님",
+      "rational": "'Each'는 단수 취급이므로 동사는 'has'를 써야 합니다."
+  },
+  {
+      "sentence": "The news is very surprising.",
+      "answer": "맞음",
+      "rational": "'news'는 단수 명사이므로 'is'를 사용하는 것이 맞습니다."
+  },
+  {
+      "sentence": "She can sings very well.",
+      "answer": "아님",
+      "rational": "조동사 'can' 뒤에는 동사의 원형 'sing'이 와야 합니다."
+  },
+  {
+      "sentence": "Neither of them was invited to the party.",
+      "answer": "맞음",
+      "rational": "'Neither'는 단수로 취급되므로 'was' 사용이 맞습니다."
+  },
+  {
+      "sentence": "He is teacher.",
+      "answer": "아님",
+      "rational": "불특정 직업 앞에는 관사 'a'가 필요하므로 'a teacher'가 맞습니다."
+  },
+  {
+      "sentence": "We were watching a movie when she called.",
+      "answer": "맞음",
+      "rational": "과거진행형과 과거시제를 함께 사용한 문장이 자연스럽습니다."
+  },
+  {
+      "sentence": "Do she know the answer?",
+      "answer": "아님",
+      "rational": "'she'에는 'Does'를 사용해야 하므로 'Does she know?'가 맞습니다."
+  },
+  {
+      "sentence": "I have lost my keys.",
+      "answer": "맞음",
+      "rational": "현재완료 시제는 과거의 행위가 현재에 영향을 줄 때 적절하게 사용됩니다."
+  },
+  {
+      "sentence": "He play the guitar every weekend.",
+      "answer": "아님",
+      "rational": "3인칭 단수 주어 'He'이므로 'plays'로 써야 합니다."
+  },
+  {
+      "sentence": "This information is very useful.",
+      "answer": "맞음",
+      "rational": "'information'은 불가산명사이므로 단수 동사 'is'를 사용하는 것이 맞습니다."
+  },
+  {
+      "sentence": "I didn’t went to the party.",
+      "answer": "아님",
+      "rational": "'did' 다음에는 동사 원형이 와야 하므로 'go'가 맞습니다."
+  },
+  {
+      "sentence": "She was born in 1998.",
+      "answer": "맞음",
+      "rational": "'be born'은 수동태 형태로 과거 시제와 함께 정확하게 사용되었습니다."
+  },
+  {
+      "sentence": "He enjoys to swim in the ocean.",
+      "answer": "아님",
+      "rational": "'enjoy' 동사는 동명사와 함께 써야 하므로 'swimming'이 맞습니다."
+  },
+  {
+      "sentence": "Tom and Jerry is my favorite cartoon.",
+      "answer": "아님",
+      "rational": "복수 주어 'Tom and Jerry'에는 'are'가 와야 합니다."
+  },
+  {
+      "sentence": "If I were you, I would apologize.",
+      "answer": "맞음",
+      "rational": "가정법 과거에서 'I were'는 문법적으로 올바른 표현입니다."
+  },
+  {
+      "sentence": "She didn’t knew the correct answer.",
+      "answer": "아님",
+      "rational": "'did' 다음에는 동사 원형을 써야 하므로 'know'가 맞습니다."
+  },
+  {
+      "sentence": "There are a cat under the table.",
+      "answer": "아님",
+      "rational": "'a cat'은 단수이므로 'There is'가 맞습니다."
+  },
+  {
+      "sentence": "He usually goes jogging in the morning.",
+      "answer": "맞음",
+      "rational": "3인칭 단수 주어와 빈도 부사가 자연스럽게 조화를 이루고 있습니다."
+  },
+  {
+      "sentence": "Maths are my favorite subject.",
+      "answer": "아님",
+      "rational": "'Maths'는 단수 취급되므로 'is'가 맞습니다."
+  },
+  {
+      "sentence": "How long have you lived in Seoul?",
+      "answer": "맞음",
+      "rational": "현재완료 시제와 'how long' 의문문 구성이 문법적으로 정확합니다."
+  },
+  {
+      "sentence": "He has a car, doesn't he?",
+      "answer": "맞음",
+      "rational": "긍정문 뒤의 부정 태그(question tag)가 정확하게 사용되었습니다."
+  },
+  {
+      "sentence": "I am studying English since 2020.",
+      "answer": "아님",
+      "rational": "'since'와 함께는 현재완료진행형 'have been studying'을 사용해야 합니다."
+  },
+  {
+      "sentence": "Let’s us go to the beach this weekend.",
+      "answer": "아님",
+      "rational": "'Let’s'는 이미 'us'를 포함하고 있으므로 중복 사용하면 안 됩니다."
+  },
+  {
+      "sentence": "The team are winning the game.",
+      "answer": "아님",
+      "rational": "'team'은 단수 집합명사로 간주되므로 'is'를 사용하는 것이 맞습니다."
+  },
+  {
+      "sentence": "She has never seen snow before.",
+      "answer": "맞음",
+      "rational": "현재완료 시제와 부정 표현 'never'가 자연스럽게 사용되었습니다."
+  },
+  {
+      "sentence": "He don’t has enough money.",
+      "answer": "아님",
+      "rational": "조동사와 본동사 둘 다 틀렸으며 'doesn’t have'가 맞는 표현입니다."
+  },
+  {
+      "sentence": "All of the cake was eaten.",
+      "answer": "맞음",
+      "rational": "'cake'는 불가산명사이므로 단수 동사 'was'를 사용하는 것이 맞습니다."
+  },
+  {
+      "sentence": "Where you are going?",
+      "answer": "아님",
+      "rational": "의문문 어순이 잘못되었으며 'Where are you going?'이 올바른 표현입니다."
+  },
+  {
+      "sentence": "The children plays outside every afternoon.",
+      "answer": "아님",
+      "rational": "'children'은 복수형이므로 'play'로 써야 합니다."
+  },
+  {
+      "sentence": "By the time we arrived, the movie had already started.",
+      "answer": "맞음",
+      "rational": "과거완료와 과거 시제의 시제 구성이 정확하게 적용되었습니다."
+  },
+  {
+      "sentence": "My brother and I is going to the park.",
+      "answer": "아님",
+      "rational": "복수 주어이므로 동사는 'are'가 되어야 합니다."
+  },
+  {
+      "sentence": "He was tired because he had been working all day.",
+      "answer": "맞음",
+      "rational": "과거완료진행형을 통해 과거의 동작을 잘 표현하고 있습니다."
+  },
+  {
+      "sentence": "I am interesting in learning Spanish.",
+      "answer": "아님",
+      "rational": "사람이 느끼는 감정은 'interested'를 사용해야 하므로 'I am interested'가 맞습니다."
+  },
+  {
+      "sentence": "She told me that she would arrive late.",
+      "answer": "맞음",
+      "rational": "간접화법에서 시제 일치가 적절하게 사용되었습니다."
+  },
+  {
+      "sentence": "He has went to the store.",
+      "answer": "아님",
+      "rational": "현재완료 시제에서는 'gone'이 맞으며 'went'는 과거형입니다."
+  },
+  {
+      "sentence": "There were a lot of people at the concert.",
+      "answer": "맞음",
+      "rational": "'a lot of people'은 복수 취급되므로 'were'가 적절합니다."
+  },
+  {
+      "sentence": "Nobody know the answer.",
+      "answer": "아님",
+      "rational": "'Nobody'는 단수 취급되므로 'knows'가 맞습니다."
+  },
+  {
+      "sentence": "How much does it cost?",
+      "answer": "맞음",
+      "rational": "'How much'와 'does'의 어순과 사용이 문법적으로 정확합니다."
+  },
+  {
+      "sentence": "He is the most tallest boy in the class.",
+      "answer": "아님",
+      "rational": "'most'와 'tallest'는 중복 비교급 표현으로 'tallest'만 사용해야 합니다."
+  },
+  {
+      "sentence": "The book, along with the notes, was stolen.",
+      "answer": "맞음",
+      "rational": "'along with'는 주어에 영향을 주지 않으므로 'book'에 맞춘 단수 동사가 맞습니다."
+  },
+  {
+      "sentence": "She enjoys listen to music before bed.",
+      "answer": "아님",
+      "rational": "'enjoys' 뒤에는 동명사 'listening'이 와야 합니다."
+  },
+  {
+      "sentence": "It takes two hours to get there by car.",
+      "answer": "맞음",
+      "rational": "'It takes + 시간 + to 동사' 구문이 자연스럽고 문법적으로 올바릅니다."
+  },
+  {
+      "sentence": "Neither John nor his friends was at the meeting.",
+      "answer": "아님",
+      "rational": "가까운 주어 'his friends'는 복수이므로 'were'를 사용해야 합니다."
+  },
+  {
+      "sentence": "Do you knows the answer?",
+      "answer": "아님",
+      "rational": "'Do' 뒤에는 동사 원형이 와야 하므로 'know'가 맞습니다."
+  },
+  {
+      "sentence": "Each student has their own locker.",
+      "answer": "맞음",
+      "rational": "'Each'는 단수 취급이며 'has'의 사용도 올바릅니다. 'their'은 포괄적 단수 대명사로 자연스럽게 사용됩니다."
+  },
+  {
+      "sentence": "I have visited London last summer.",
+      "answer": "아님",
+      "rational": "과거 시점을 명시했으므로 'visited' 단독 과거시제를 써야 하며, 'have'는 제거해야 합니다."
+  },
+  {
+      "sentence": "Neither the teacher nor the students were late.",
+      "answer": "맞음",
+      "rational": "가까운 주어 'students'가 복수이므로 복수 동사 'were'를 사용하는 것이 맞습니다."
+  },
+  {
+      "sentence": "The number of applicants have increased.",
+      "answer": "아님",
+      "rational": "'The number of'는 단수로 취급되므로 동사는 'has'가 맞습니다."
+  },
+  {
+      "sentence": "Few people know the full story.",
+      "answer": "맞음",
+      "rational": "'Few'는 복수 명사와 함께 쓰이며 'know'와의 조합도 자연스럽습니다."
+  },
+  {
+      "sentence": "I am used to wake up early.",
+      "answer": "아님",
+      "rational": "'be used to' 뒤에는 동명사 'waking'이 와야 합니다."
+  },
+  {
+      "sentence": "This scissors is very sharp.",
+      "answer": "아님",
+      "rational": "'scissors'는 항상 복수형이므로 'are'를 사용해야 합니다."
+  },
+  {
+      "sentence": "The police is investigating the crime.",
+      "answer": "아님",
+      "rational": "'police'는 복수로 취급되므로 'are'가 맞습니다."
+  },
+  {
+      "sentence": "Would you mind opening the window?",
+      "answer": "맞음",
+      "rational": "'Would you mind' 구문 뒤에는 동명사를 사용하는 것이 맞습니다."
+  },
+  {
+      "sentence": "He said me the truth.",
+      "answer": "아님",
+      "rational": "'say'는 직접 목적어를 취하지 않으므로 'told me' 또는 'said to me'로 바꿔야 합니다."
+  },
+  {
+      "sentence": "This is the book which I bought yesterday.",
+      "answer": "맞음",
+      "rational": "관계대명사 'which'가 목적격으로 자연스럽게 사용되었습니다."
+  },
+  {
+      "sentence": "We have less apples than yesterday.",
+      "answer": "아님",
+      "rational": "'apples'는 셀 수 있는 복수 명사이므로 'fewer'가 맞습니다."
+  },
+  {
+      "sentence": "He asked me where was the station.",
+      "answer": "아님",
+      "rational": "간접의문문에서는 평서문 어순을 사용하므로 'where the station was'가 맞습니다."
+  },
+  {
+      "sentence": "She works as a nurse at the hospital.",
+      "answer": "맞음",
+      "rational": "'works as'와 직업 표현이 자연스럽게 사용되었습니다."
+  },
+  {
+      "sentence": "He’s married with a doctor.",
+      "answer": "아님",
+      "rational": "'married to'가 맞는 표현입니다. 'with'은 잘못된 전치사입니다."
+  },
+  {
+      "sentence": "How long is it since you saw her?",
+      "answer": "맞음",
+      "rational": "'since'가 과거 시점과 함께 사용되며 현재완료 의미를 잘 전달하고 있습니다."
+  },
+  {
+      "sentence": "They suggested me to join the club.",
+      "answer": "아님",
+      "rational": "'suggest'는 사람을 직접 목적어로 취하지 않으며 'suggested that I join'이나 'suggested joining'이 맞습니다."
+  },
+  {
+      "sentence": "He is good at playing the piano.",
+      "answer": "맞음",
+      "rational": "'be good at' 뒤에 동명사 'playing'이 자연스럽게 사용되었습니다."
+  },
+  {
+      "sentence": "There is a pen and two pencils on the table.",
+      "answer": "아님",
+      "rational": "주어가 복수이므로 'are'가 맞습니다."
+  },
+  {
+      "sentence": "It seems that she knows the answer.",
+      "answer": "맞음",
+      "rational": "'It seems that ~' 구문과 현재 시제 'knows'가 올바르게 사용되었습니다."
+  },
+  {
+      "sentence": "She is used to getting up early.",
+      "answer": "맞음",
+      "rational": "'be used to' 다음에는 동명사를 쓰는 것이 맞습니다."
+  },
+  {
+      "sentence": "He speaks English good.",
+      "answer": "아님",
+      "rational": "동사를 수식하려면 부사 'well'을 사용해야 합니다."
+  },
+  {
+      "sentence": "I look forward to hear from you.",
+      "answer": "아님",
+      "rational": "'look forward to' 뒤에는 동명사 'hearing'이 와야 합니다."
+  },
+  {
+      "sentence": "Ten miles is a long distance to walk.",
+      "answer": "맞음",
+      "rational": "거리, 시간, 금액 등은 단수로 취급되어 'is' 사용이 맞습니다."
+  },
+  {
+      "sentence": "He said that he will come tomorrow.",
+      "answer": "아님",
+      "rational": "간접화법에서 시제 일치를 적용해야 하므로 'would come'이 맞습니다."
+  },
+  {
+      "sentence": "My advice are always helpful.",
+      "answer": "아님",
+      "rational": "'advice'는 불가산명사이므로 'is'를 사용해야 합니다."
+  },
+  {
+      "sentence": "She hardly never makes mistakes.",
+      "answer": "아님",
+      "rational": "'hardly'와 'never'는 이중 부정으로 같이 쓰면 안 됩니다."
+  },
+  {
+      "sentence": "This is the same book that I read last year.",
+      "answer": "맞음",
+      "rational": "'the same ~ that' 구문이 자연스럽게 사용되었습니다."
+  },
+  {
+      "sentence": "He is taller than me.",
+      "answer": "맞음",
+      "rational": "구어체에서 'than me'는 자연스럽고 일반적으로 허용되는 표현입니다."
+  },
+  {
+      "sentence": "Either of the answers are correct.",
+      "answer": "아님",
+      "rational": "'Either'는 단수 취급되므로 'is'가 맞습니다."
+  },
+  {
+      "sentence": "She needs to finish her report by Friday.",
+      "answer": "맞음",
+      "rational": "'need to + 동사원형' 구조와 시간 표현이 정확하게 사용되었습니다."
+  },
+  {
+      "sentence": "All the furniture were moved out.",
+      "answer": "아님",
+      "rational": "'furniture'는 불가산명사이므로 'was'를 사용해야 합니다."
+  },
+  {
+      "sentence": "Is there any news?",
+      "answer": "맞음",
+      "rational": "'news'는 단수형 불가산명사이므로 'Is there'가 맞습니다."
+  },
+  {
+      "sentence": "I prefer coffee than tea.",
+      "answer": "아님",
+      "rational": "'prefer'은 'to'를 써야 하므로 'prefer coffee to tea'가 맞습니다."
+  },
+  {
+      "sentence": "The cake smells delicious.",
+      "answer": "맞음",
+      "rational": "감각 동사 'smells'와 형용사 'delicious'의 조합이 자연스럽습니다."
+  },
+  {
+      "sentence": "They has completed the assignment.",
+      "answer": "아님",
+      "rational": "'They'는 복수 주어이므로 'have'를 사용해야 합니다."
+  },
+  {
+      "sentence": "By next year, she will have graduated.",
+      "answer": "맞음",
+      "rational": "미래완료 시제가 정확히 사용되었습니다."
+  },
+  {
+      "sentence": "Whose book is this?",
+      "answer": "맞음",
+      "rational": "'whose + 명사 + be동사'의 구조가 정확합니다."
+  },
+  {
+      "sentence": "It depend on the situation.",
+      "answer": "아님",
+      "rational": "3인칭 단수 'it'이므로 동사는 'depends'가 되어야 합니다."
+  },
+  {
+      "sentence": "They didn’t invited us.",
+      "answer": "아님",
+      "rational": "'did' 다음에는 동사 원형 'invite'를 써야 합니다."
+  },
+  {
+      "sentence": "You had better to sleep early.",
+      "answer": "아님",
+      "rational": "'had better' 다음에는 동사 원형이 와야 하므로 'sleep'이 맞습니다."
+  },
+  {
+      "sentence": "Most of the students are present.",
+      "answer": "맞음",
+      "rational": "'Most of + 복수 명사'와 복수 동사 'are'의 조합이 자연스럽습니다."
+  },
+  {
+      "sentence": "He is capable to do the job.",
+      "answer": "아님",
+      "rational": "'capable'은 전치사 'of'와 함께 쓰여야 하므로 'capable of doing'이 맞습니다."
+  },
+  {
+      "sentence": "She has a few close friends.",
+      "answer": "맞음",
+      "rational": "'a few'는 긍정적인 의미로 복수 명사 'friends'와 잘 어울립니다."
+  },
+  {
+      "sentence": "I enjoy to read books in my free time.",
+      "answer": "아님",
+      "rational": "'enjoy'는 동명사를 목적어로 가지므로 'reading'이 맞습니다."
+  },
+  {
+      "sentence": "Let’s take a break, shall we?",
+      "answer": "맞음",
+      "rational": "'Let's' 구문 뒤에는 'shall we?'가 일반적인 부가 의문문입니다."
+  },
+  {
+      "sentence": "He didn’t went to school today.",
+      "answer": "아님",
+      "rational": "'did' 다음에는 동사 원형이 와야 하므로 'go'가 맞습니다."
+  },
+  {
+      "sentence": "She has been working here for ten years.",
+      "answer": "맞음",
+      "rational": "현재완료진행형과 기간 표현이 문법적으로 정확하게 사용되었습니다."
+  },
+  {
+      "sentence": "There is an apple and two bananas on the table.",
+      "answer": "아님",
+      "rational": "복수 주어이므로 'There are'가 맞는 표현입니다."
+  },
+  {
+      "sentence": "She don’t understand the question.",
+      "answer": "아님",
+      "rational": "3인칭 단수 주어 'She'는 'doesn’t'를 사용해야 하므로 'doesn’t understand'가 맞습니다."
+  },
+  {
+      "sentence": "He hasn’t done his homework yet.",
+      "answer": "맞음",
+      "rational": "현재완료 부정문에서 'hasn't done'의 구조가 정확하게 사용되었습니다."
+  },
+  {
+      "sentence": "You was late for the meeting.",
+      "answer": "아님",
+      "rational": "'You'는 복수 취급이므로 'were'를 써야 합니다."
+  },
+  {
+      "sentence": "This kind of books are popular among students.",
+      "answer": "아님",
+      "rational": "'This kind of'는 단수 취급되므로 'is'를 써야 합니다."
+  },
+  {
+      "sentence": "I have been to Japan twice.",
+      "answer": "맞음",
+      "rational": "'have been to + 장소'는 경험을 나타내는 현재완료로 적절히 쓰였습니다."
+  },
+  {
+      "sentence": "She sings very beautiful.",
+      "answer": "아님",
+      "rational": "'beautiful'은 형용사이므로 부사 'beautifully'를 써야 합니다."
+  },
+  {
+      "sentence": "Many people believes in superstitions.",
+      "answer": "아님",
+      "rational": "복수 주어 'people'에 대해 동사는 원형 'believe'가 맞습니다."
+  },
+  {
+      "sentence": "It’s important to speak clearly.",
+      "answer": "맞음",
+      "rational": "가주어 'It'과 진주어 역할의 'to부정사'가 잘 사용되었습니다."
+  },
+  {
+      "sentence": "He read a book when I entered the room.",
+      "answer": "아님",
+      "rational": "동작이 진행 중이었다면 과거진행형 'was reading'이 적절합니다."
+  },
+  {
+      "sentence": "This house was built in the 19th century.",
+      "answer": "맞음",
+      "rational": "수동태와 과거시제가 정확하게 적용되었습니다."
+  },
+  {
+      "sentence": "She can to play the violin.",
+      "answer": "아님",
+      "rational": "'can' 다음에는 동사원형 'play'만 와야 하며 'to'는 필요 없습니다."
+  },
+  {
+      "sentence": "It is too late to call her now.",
+      "answer": "맞음",
+      "rational": "'too ~ to' 구문이 자연스럽고 문법적으로 정확합니다."
+  },
+  {
+      "sentence": "All of the information are useful.",
+      "answer": "아님",
+      "rational": "'information'은 불가산명사이므로 단수 동사 'is'가 맞습니다."
+  },
+  {
+      "sentence": "Whom did you invite to the party?",
+      "answer": "맞음",
+      "rational": "'whom'이 목적어로 사용된 문장 구조가 적절합니다."
+  },
+  {
+      "sentence": "He run every morning before breakfast.",
+      "answer": "아님",
+      "rational": "3인칭 단수 주어 'He'에 맞춰 'runs'가 맞습니다."
+  },
+  {
+      "sentence": "These shoes is too small for me.",
+      "answer": "아님",
+      "rational": "'These shoes'는 복수이므로 'are'를 써야 합니다."
+  },
+  {
+      "sentence": "It was difficult for me to answer the question.",
+      "answer": "맞음",
+      "rational": "'It ~ for ~ to' 구문이 올바르게 사용되었습니다."
+  },
+  {
+      "sentence": "They was watching TV when I arrived.",
+      "answer": "아님",
+      "rational": "복수 주어 'They'에는 'were'가 맞습니다."
+  },
+  {
+      "sentence": "The dog chased its tail.",
+      "answer": "맞음",
+      "rational": "소유격 'its'와 과거시제 'chased'가 자연스럽게 쓰였습니다."
+  },
+  {
+      "sentence": "She never eats meat.",
+      "answer": "맞음",
+      "rational": "빈도부사 'never'와 3인칭 단수 시제의 동사가 잘 어울립니다."
+  },
+  {
+      "sentence": "Each of the boys know the rules.",
+      "answer": "아님",
+      "rational": "'Each'는 단수 취급되므로 'knows'가 맞습니다."
+  },
+  {
+      "sentence": "Nobody was at home when I arrived.",
+      "answer": "맞음",
+      "rational": "'Nobody'는 단수 취급되며, 'was'와 어울립니다."
+  },
+  {
+      "sentence": "They was playing football.",
+      "answer": "아님",
+      "rational": "복수 주어 'They'에는 'were'가 맞습니다."
+  },
+  {
+      "sentence": "He has a few questions to ask.",
+      "answer": "맞음",
+      "rational": "'a few'는 긍정 의미로 복수 명사 'questions'와 잘 어울립니다."
+  },
+  {
+      "sentence": "We goes to the gym on Mondays.",
+      "answer": "아님",
+      "rational": "주어 'we'는 복수이므로 동사 원형 'go'를 사용해야 합니다."
+  },
+  {
+      "sentence": "There are several books on the table.",
+      "answer": "맞음",
+      "rational": "복수 명사 'books'와 복수 동사 'are'의 조합이 올바릅니다."
+  },
+  {
+      "sentence": "I didn’t knew she was coming.",
+      "answer": "아님",
+      "rational": "'didn’t' 뒤에는 동사 원형 'know'를 써야 합니다."
+  },
+  {
+      "sentence": "Tom as well as his friends is going on the trip.",
+      "answer": "맞음",
+      "rational": "'as well as'는 주어에 영향을 주지 않으므로 'Tom'에 맞춘 단수 동사 'is'가 적절합니다."
+  },
+  {
+      "sentence": "He’s interested on photography.",
+      "answer": "아님",
+      "rational": "'interested in'이 맞는 전치사 표현입니다."
+  },
+  {
+      "sentence": "Would you like some coffee?",
+      "answer": "맞음",
+      "rational": "공손한 제안 표현으로 문법적으로도 자연스럽습니다."
+  },
+  {
+      "sentence": "They enjoys watching movies together.",
+      "answer": "아님",
+      "rational": "복수 주어 'they'에는 동사 원형 'enjoy'가 맞습니다."
+  },
+  {
+      "sentence": "She hasn’t seen that movie yet.",
+      "answer": "맞음",
+      "rational": "현재완료 부정문과 'yet'의 조합이 자연스럽게 사용되었습니다."
+  },
+  {
+      "sentence": "I can plays the guitar.",
+      "answer": "아님",
+      "rational": "조동사 'can' 뒤에는 동사 원형 'play'가 와야 합니다."
+  },
+  {
+      "sentence": "He was cooking dinner when I arrived.",
+      "answer": "맞음",
+      "rational": "과거진행과 과거시제가 잘 연결되어 문맥이 자연스럽습니다."
+  },
+  {
+      "sentence": "My friend don’t like spicy food.",
+      "answer": "아님",
+      "rational": "단수 주어 'My friend'에는 'doesn’t'가 맞습니다."
+  },
+  {
+      "sentence": "She spoke to him politely.",
+      "answer": "맞음",
+      "rational": "부사 'politely'가 동사 'spoke'를 적절히 수식하고 있습니다."
+  },
+  {
+      "sentence": "I am knowing the answer.",
+      "answer": "아님",
+      "rational": "'know'는 일반적으로 진행형으로 쓰이지 않으므로 'I know'가 맞습니다."
+  },
+  {
+      "sentence": "Let me help you with that.",
+      "answer": "맞음",
+      "rational": "요청을 표현하는 'let me' 구문이 문법적으로 정확합니다."
+  },
+  {
+      "sentence": "Everyone are ready to go.",
+      "answer": "아님",
+      "rational": "'Everyone'은 단수 취급되므로 'is'가 맞습니다."
+  },
+  {
+      "sentence": "You must to finish your work today.",
+      "answer": "아님",
+      "rational": "'must'는 조동사이므로 뒤에 'to' 없이 동사 원형이 와야 합니다."
+  },
+  {
+      "sentence": "She has never been to New York.",
+      "answer": "맞음",
+      "rational": "현재완료와 부정 표현이 정확하게 결합되어 있습니다."
+  },
+  {
+      "sentence": "The dogs barks loudly at night.",
+      "answer": "아님",
+      "rational": "복수 주어 'dogs'에는 동사 원형 'bark'가 와야 합니다."
+  },
+  {
+      "sentence": "He speaks three languages fluently.",
+      "answer": "맞음",
+      "rational": "부사 'fluently'가 문장 내에서 자연스럽게 사용되었습니다."
+  },
+  {
+      "sentence": "They didn’t finish their homework yet.",
+      "answer": "아님",
+      "rational": "과거 부정문에서 'yet' 대신 'already'가 어울리거나 현재완료를 써야 자연스럽습니다."
+  },
+  {
+      "sentence": "She doesn’t has a car.",
+      "answer": "아님",
+      "rational": "'doesn’t' 뒤에는 동사 원형 'have'가 와야 합니다."
+  },
+  {
+      "sentence": "It seems like he knows what he’s doing.",
+      "answer": "맞음",
+      "rational": "'seems like'와 현재시제가 자연스럽게 연결되어 있습니다."
+  },
+  {
+      "sentence": "The children was excited about the trip.",
+      "answer": "아님",
+      "rational": "복수 주어 'children'에는 'were'가 맞습니다."
+  },
+  {
+      "sentence": "He were very happy yesterday.",
+      "answer": "아님",
+      "rational": "단수 주어 'He'에는 과거형 'was'를 사용해야 합니다."
+  },
+  {
+      "sentence": "She speaks English and French fluently.",
+      "answer": "맞음",
+      "rational": "복합 목적어와 부사가 자연스럽게 연결된 문장입니다."
+  },
+  {
+      "sentence": "They has gone to the supermarket.",
+      "answer": "아님",
+      "rational": "'They'는 복수 주어이므로 'have'를 사용해야 합니다."
+  },
+  {
+      "sentence": "Is there any milk in the fridge?",
+      "answer": "맞음",
+      "rational": "'milk'는 불가산명사이고 'Is there' 구조가 적절하게 사용되었습니다."
+  },
+  {
+      "sentence": "I don’t know nothing about the topic.",
+      "answer": "아님",
+      "rational": "이중 부정은 피해야 하므로 'I don’t know anything'이 맞습니다."
+  },
+  {
+      "sentence": "My mother enjoys gardening in her free time.",
+      "answer": "맞음",
+      "rational": "동명사 'gardening'이 동사 'enjoys' 뒤에 올바르게 사용되었습니다."
+  },
+  {
+      "sentence": "The books on the shelf is dusty.",
+      "answer": "아님",
+      "rational": "주어 'books'는 복수이므로 'are'를 사용해야 합니다."
+  },
+  {
+      "sentence": "We had already left when he arrived.",
+      "answer": "맞음",
+      "rational": "과거완료와 과거시제를 적절하게 조합한 문장입니다."
+  },
+  {
+      "sentence": "He can speaks three languages.",
+      "answer": "아님",
+      "rational": "조동사 'can' 뒤에는 동사 원형 'speak'이 와야 합니다."
+  },
+  {
+      "sentence": "The movie was so boring that I fell asleep.",
+      "answer": "맞음",
+      "rational": "'so ~ that' 구문이 자연스럽게 쓰인 문장입니다."
+  },
+  {
+      "sentence": "You didn’t told me about the meeting.",
+      "answer": "아님",
+      "rational": "'didn’t' 뒤에는 동사 원형 'tell'이 와야 합니다."
+  },
+  {
+      "sentence": "Does she plays the piano well?",
+      "answer": "아님",
+      "rational": "'Does'와 함께 쓸 때는 동사 원형 'play'를 사용해야 합니다."
+  },
+  {
+      "sentence": "I have not seen her for a while.",
+      "answer": "맞음",
+      "rational": "현재완료 부정문에서 'have not seen' 구문이 정확하게 쓰였습니다."
+  },
+  {
+      "sentence": "The dog bark loudly at strangers.",
+      "answer": "아님",
+      "rational": "3인칭 단수 주어 'dog'에는 동사에 's'를 붙여야 하므로 'barks'가 맞습니다."
+  },
+  {
+      "sentence": "Neither of the answers is correct.",
+      "answer": "맞음",
+      "rational": "'Neither'는 단수 취급되므로 동사 'is'가 올바릅니다."
+  },
+  {
+      "sentence": "She is afraid of make mistakes.",
+      "answer": "아님",
+      "rational": "'be afraid of' 뒤에는 동명사 'making'이 와야 합니다."
+  },
+  {
+      "sentence": "He usually takes the bus to work.",
+      "answer": "맞음",
+      "rational": "현재시제 동사와 빈도 부사의 조합이 자연스럽습니다."
+  },
+  {
+      "sentence": "How much people were at the event?",
+      "answer": "아님",
+      "rational": "사람 수를 셀 때는 'How many people'을 사용해야 합니다."
+  },
+  {
+      "sentence": "I wish I were taller.",
+      "answer": "맞음",
+      "rational": "가정법 과거 문장에서 'I were' 표현이 올바르게 쓰였습니다."
+  },
+  {
+      "sentence": "She didn’t ate lunch today.",
+      "answer": "아님",
+      "rational": "'didn’t' 뒤에는 동사 원형 'eat'이 와야 합니다."
+  },
+  {
+      "sentence": "The cake smells good.",
+      "answer": "맞음",
+      "rational": "감각동사 뒤에 형용사 'good'을 사용한 구조가 맞습니다."
+  },
+  {
+      "sentence": "He was born at 1995.",
+      "answer": "아님",
+      "rational": "출생 연도와 함께는 전치사 'in'을 써야 하므로 'in 1995'가 맞습니다."
+  },
+  {
+      "sentence": "She said me a story.",
+      "answer": "아님",
+      "rational": "'say'는 직접 목적어를 받지 않으므로 'told me' 또는 'said to me'가 맞습니다."
+  },
+  {
+      "sentence": "Do you want to come with us?",
+      "answer": "맞음",
+      "rational": "'Do you want to' 구문이 자연스럽고 문법적으로 맞습니다."
+  },
+  {
+      "sentence": "That book are interesting.",
+      "answer": "아님",
+      "rational": "단수 주어 'That book'에는 'is'를 사용해야 합니다."
+  },
+  {
+      "sentence": "Everyone in the class has a book.",
+      "answer": "맞음",
+      "rational": "'Everyone'은 단수 취급되며 'has'가 올바르게 쓰였습니다."
+  },
+  {
+      "sentence": "She is married to a lawyer.",
+      "answer": "맞음",
+      "rational": "'be married to'는 결혼 상대를 말할 때 올바른 표현입니다."
+  },
+  {
+      "sentence": "He told that he would be late.",
+      "answer": "아님",
+      "rational": "'told'는 직접 목적어를 필요로 하므로 'told me' 또는 'told us' 등으로 써야 합니다."
+  },
+  {
+      "sentence": "Is this your bag or hers?",
+      "answer": "맞음",
+      "rational": "소유대명사 'hers' 사용이 적절한 문장입니다."
+  },
+  {
+      "sentence": "There is too much people in the room.",
+      "answer": "아님",
+      "rational": "'people'은 복수이므로 'too many people'이 맞습니다."
+  },
+  {
+      "sentence": "Reading books help improve vocabulary.",
+      "answer": "아님",
+      "rational": "동명사 'reading'은 단수로 취급되므로 'helps'가 맞습니다."
+  },
+  {
+      "sentence": "It looks like it’s going to rain.",
+      "answer": "맞음",
+      "rational": "비가 올 것 같다는 예측 표현으로 자연스럽습니다."
+  },
+  {
+      "sentence": "These kind of shoes is expensive.",
+      "answer": "아님",
+      "rational": "'These'는 복수이므로 'kinds'와 'are'를 사용해야 합니다."
+  },
+  {
+      "sentence": "She was cooking when the phone rang.",
+      "answer": "맞음",
+      "rational": "과거진행과 과거의 조합이 문맥상 잘 어울립니다."
+  },
+  {
+      "sentence": "He don’t know how to drive.",
+      "answer": "아님",
+      "rational": "3인칭 단수 주어 'He'는 'doesn’t'를 사용해야 합니다."
+  },
+  {
+      "sentence": "He worked hardly to finish the project.",
+      "answer": "아님",
+      "rational": "'hardly'는 '거의 ~않다'는 뜻이므로, 'hard'를 써야 합니다."
+  },
+  {
+      "sentence": "My friends and I are going hiking this weekend.",
+      "answer": "맞음",
+      "rational": "복수 주어와 'are going'의 조합이 자연스럽습니다."
+  },
+  {
+      "sentence": "It’s cold, isn’t it?",
+      "answer": "맞음",
+      "rational": "부가의문문 'isn’t it?'가 긍정문과 잘 연결되어 있습니다."
+  },
+  {
+      "sentence": "I am good in math.",
+      "answer": "아님",
+      "rational": "'good at'이 맞는 전치사 표현입니다."
+  },
+  {
+      "sentence": "He don’t has any siblings.",
+      "answer": "아님",
+      "rational": "'don’t' 대신 'doesn’t'를 사용하고, 'has'는 'have'로 바꿔야 합니다: 'He doesn’t have'."
+  },
+  {
+      "sentence": "She has been studying English for five years.",
+      "answer": "맞음",
+      "rational": "현재완료진행형과 'for' 기간 표현이 올바르게 사용되었습니다."
+  },
+  {
+      "sentence": "Neither the manager nor the employees knows the answer.",
+      "answer": "아님",
+      "rational": "가까운 주어 'employees'가 복수이므로 동사 'know'를 써야 합니다."
+  },
+  {
+      "sentence": "He go to the gym every day.",
+      "answer": "아님",
+      "rational": "3인칭 단수 주어 'He'에는 'goes'를 사용해야 합니다."
+  },
+  {
+      "sentence": "There are a cat and two dogs in the room.",
+      "answer": "맞음",
+      "rational": "복수 주어이므로 'There are'가 올바르게 사용되었습니다."
+  },
+  {
+      "sentence": "I look forward to hearing from you.",
+      "answer": "맞음",
+      "rational": "'look forward to' 다음에는 동명사 'hearing'이 와야 합니다."
+  },
+  {
+      "sentence": "The traffic are very heavy today.",
+      "answer": "아님",
+      "rational": "'traffic'은 불가산명사로 단수 취급되어 'is'를 사용해야 합니다."
+  },
+  {
+      "sentence": "Somebody have left their phone here.",
+      "answer": "아님",
+      "rational": "'Somebody'는 단수이므로 'has'를 써야 합니다."
+  },
+  {
+      "sentence": "I didn’t know she was your sister.",
+      "answer": "맞음",
+      "rational": "과거 시제의 부정문과 종속절 시제가 잘 연결되어 있습니다."
+  },
+  {
+      "sentence": "Each of them are responsible for the result.",
+      "answer": "아님",
+      "rational": "'Each'는 단수 취급되므로 동사 'is'가 맞습니다."
+  },
+  {
+      "sentence": "The scissors is on the table.",
+      "answer": "아님",
+      "rational": "'scissors'는 복수형 명사이므로 'are'가 맞습니다."
+  },
+  {
+      "sentence": "She wore a beautiful dress to the party.",
+      "answer": "맞음",
+      "rational": "과거 시제와 목적어 사용이 자연스럽습니다."
+  },
+  {
+      "sentence": "I can to help you with your homework.",
+      "answer": "아님",
+      "rational": "'can' 뒤에는 'to' 없이 동사 원형 'help'가 와야 합니다."
+  },
+  {
+      "sentence": "The news was surprising.",
+      "answer": "맞음",
+      "rational": "'news'는 단수 불가산명사이므로 'was'가 맞습니다."
+  },
+  {
+      "sentence": "She and her sister goes to the same school.",
+      "answer": "아님",
+      "rational": "복수 주어이므로 동사 원형 'go'가 맞습니다."
+  },
+  {
+      "sentence": "There isn’t many options available.",
+      "answer": "아님",
+      "rational": "복수 명사 'options'와 함께는 'aren’t'를 사용해야 합니다."
+  },
+  {
+      "sentence": "Let’s meet at 3 p.m. in front of the library.",
+      "answer": "맞음",
+      "rational": "시간과 장소 표현이 명확하고 문법적으로 정확합니다."
+  },
+  {
+      "sentence": "Is she knows the answer?",
+      "answer": "아님",
+      "rational": "'Does she know?' 또는 'Does she know the answer?'가 맞습니다."
+  },
+  {
+      "sentence": "This cake tastes delicious.",
+      "answer": "맞음",
+      "rational": "감각 동사 'tastes' 뒤에 형용사 'delicious'가 자연스럽습니다."
+  },
+  {
+      "sentence": "All of my homework are finished.",
+      "answer": "아님",
+      "rational": "'homework'는 불가산명사이므로 'is'를 사용해야 합니다."
+  },
+  {
+      "sentence": "You should to be careful.",
+      "answer": "아님",
+      "rational": "'should' 뒤에는 'to' 없이 동사 원형 'be'가 와야 합니다."
+  },
+  {
+      "sentence": "We were surprised by the sudden announcement.",
+      "answer": "맞음",
+      "rational": "수동태와 과거 시제가 올바르게 사용되었습니다."
+  },
+  {
+      "sentence": "Either John or his brothers is coming to the event.",
+      "answer": "아님",
+      "rational": "가까운 주어 'brothers'가 복수이므로 'are'가 맞습니다."
+  },
+  {
+      "sentence": "The water in the lake look clean.",
+      "answer": "아님",
+      "rational": "단수 주어 'water'에 맞춰 'looks'를 사용해야 합니다."
+  },
+  {
+      "sentence": "She was listening to music when I called her.",
+      "answer": "맞음",
+      "rational": "과거진행과 과거 시제가 자연스럽게 연결되었습니다."
+  },
+  {
+      "sentence": "Nobody know where he went.",
+      "answer": "아님",
+      "rational": "'Nobody'는 단수이므로 'knows'를 사용해야 합니다."
+  },
+  {
+      "sentence": "This is the best movie I have ever seen.",
+      "answer": "맞음",
+      "rational": "최상급 표현과 현재완료 시제가 잘 어울립니다."
+  },
+  {
+      "sentence": "They doesn’t agree with the decision.",
+      "answer": "아님",
+      "rational": "복수 주어 'They'에는 'don’t'를 사용해야 합니다."
+  },
+  {
+      "sentence": "How much does it costs?",
+      "answer": "아님",
+      "rational": "'does'가 있을 때는 동사 원형 'cost'를 사용해야 합니다."
+  },
+  {
+      "sentence": "He told me that he had finished the work.",
+      "answer": "맞음",
+      "rational": "간접화법에서 과거완료 시제가 적절히 사용되었습니다."
+  },
+  {
+      "sentence": "Each of the cars were washed.",
+      "answer": "아님",
+      "rational": "'Each'는 단수 취급되므로 'was'가 맞습니다."
+  },
+  {
+      "sentence": "She doesn’t eats fast food.",
+      "answer": "아님",
+      "rational": "'doesn’t' 뒤에는 동사 원형 'eat'이 와야 합니다."
+  },
+  {
+      "sentence": "My brother, along with his friends, is going to the concert.",
+      "answer": "맞음",
+      "rational": "'along with'는 주어에 영향을 주지 않으므로 'is'가 맞습니다."
+  },
+  {
+      "sentence": "They is watching a movie now.",
+      "answer": "아님",
+      "rational": "복수 주어 'They'에는 'are'가 맞습니다."
+  },
+  {
+      "sentence": "I have a few ideas for the project.",
+      "answer": "맞음",
+      "rational": "'a few'는 긍정 의미로 복수 명사와 함께 사용됩니다."
+  },
+  {
+      "sentence": "My favorite color are blue.",
+      "answer": "아님",
+      "rational": "'color'는 단수이므로 'is'가 맞습니다."
+  },
+  {
+      "sentence": "He has already eaten lunch.",
+      "answer": "맞음",
+      "rational": "현재완료 시제와 'already'의 사용이 자연스럽습니다."
+  },
+  {
+      "sentence": "Do he know how to cook?",
+      "answer": "아님",
+      "rational": "3인칭 단수에는 'Does'를 사용해야 합니다."
+  },
+  {
+      "sentence": "That sounds like a good idea.",
+      "answer": "맞음",
+      "rational": "감각동사 'sounds'와 'like' 구문이 자연스럽게 쓰였습니다."
+  },
+  {
+      "sentence": "She were excited about the trip.",
+      "answer": "아님",
+      "rational": "3인칭 단수 주어 'She'에는 과거형 'was'를 사용해야 합니다."
+  },
+  {
+      "sentence": "The children are playing in the park.",
+      "answer": "맞음",
+      "rational": "복수 주어 'children'과 현재진행형이 잘 어울립니다."
+  },
+  {
+      "sentence": "He don’t like to eat vegetables.",
+      "answer": "아님",
+      "rational": "3인칭 단수 주어 'He'에는 'doesn’t'를 사용해야 합니다."
+  },
+  {
+      "sentence": "I was tired because I hadn’t slept well.",
+      "answer": "맞음",
+      "rational": "과거완료와 과거시제의 연결이 자연스럽습니다."
+  },
+  {
+      "sentence": "The book and the pen is on the table.",
+      "answer": "아님",
+      "rational": "복수 주어이므로 동사는 'are'가 맞습니다."
+  },
+  {
+      "sentence": "Has he ever been to Australia?",
+      "answer": "맞음",
+      "rational": "현재완료 시제에서 'Has he ever been' 구문이 올바르게 사용되었습니다."
+  },
+  {
+      "sentence": "He don’t knows what to do.",
+      "answer": "아님",
+      "rational": "'don’t'는 'doesn’t'로, 'knows'는 원형 'know'로 바꿔야 합니다."
+  },
+  {
+      "sentence": "This kind of problem is common.",
+      "answer": "맞음",
+      "rational": "'This kind of + 단수명사' 구조에서 단수 동사 'is'가 잘 사용되었습니다."
+  },
+  {
+      "sentence": "There is some books on the desk.",
+      "answer": "아님",
+      "rational": "복수 명사 'books'에는 'are'를 사용해야 합니다."
+  },
+  {
+      "sentence": "I didn’t forget to lock the door.",
+      "answer": "맞음",
+      "rational": "'didn’t' 뒤에는 동사 원형 'forget'이 정확하게 사용되었습니다."
+  },
+  {
+      "sentence": "She is used to work late at night.",
+      "answer": "아님",
+      "rational": "'be used to' 뒤에는 동명사 'working'이 와야 합니다."
+  },
+  {
+      "sentence": "It takes an hour to get to school.",
+      "answer": "맞음",
+      "rational": "'It takes + 시간 + to부정사' 구문이 정확하게 사용되었습니다."
+  },
+  {
+      "sentence": "They enjoys spending time together.",
+      "answer": "아님",
+      "rational": "복수 주어 'they'에는 동사 원형 'enjoy'가 맞습니다."
+  },
+  {
+      "sentence": "Is she coming to the party tonight?",
+      "answer": "맞음",
+      "rational": "현재진행형의 의문문 형태가 올바르게 사용되었습니다."
+  },
+  {
+      "sentence": "He wants that I help him.",
+      "answer": "아님",
+      "rational": "'wants me to help him' 형태가 올바른 표현입니다."
+  },
+  {
+      "sentence": "How many money do you have?",
+      "answer": "아님",
+      "rational": "'money'는 불가산명사이므로 'how much money'를 사용해야 합니다."
+  },
+  {
+      "sentence": "He usually drives to work.",
+      "answer": "맞음",
+      "rational": "현재시제와 부사 'usually'가 자연스럽게 연결되어 있습니다."
+  },
+  {
+      "sentence": "The team are playing well today.",
+      "answer": "아님",
+      "rational": "'team'은 단수로 간주되므로 'is'가 맞습니다."
+  },
+  {
+      "sentence": "Let’s not argue about this.",
+      "answer": "맞음",
+      "rational": "제안형 부정문에서 'let’s not' 구문이 올바르게 사용되었습니다."
+  },
+  {
+      "sentence": "He was sleep when I called.",
+      "answer": "아님",
+      "rational": "'sleep'은 상태 동사로 쓰일 수 없고, 'asleep'이 맞는 표현입니다."
+  },
+  {
+      "sentence": "Few students passed the exam.",
+      "answer": "맞음",
+      "rational": "'few'는 부정적 의미로 복수 명사 'students'와 잘 어울립니다."
+  },
+  {
+      "sentence": "He is taller than I.",
+      "answer": "맞음",
+      "rational": "비교급 표현과 주격 'I'의 조합이 문법적으로 정확합니다."
+  },
+  {
+      "sentence": "This is the man which helped me.",
+      "answer": "아님",
+      "rational": "사람을 지칭할 때는 관계대명사 'who'를 사용해야 합니다."
+  },
+  {
+      "sentence": "She told to me a secret.",
+      "answer": "아님",
+      "rational": "'tell'은 전치사 없이 직접 목적어를 받아야 하므로 'told me'가 맞습니다."
+  },
+  {
+      "sentence": "We have a lot of homeworks to do.",
+      "answer": "아님",
+      "rational": "'homework'는 불가산명사이므로 복수형을 사용할 수 없습니다."
+  },
+  {
+      "sentence": "Neither answer is correct.",
+      "answer": "맞음",
+      "rational": "'neither'는 단수 취급이므로 단수 동사 'is'가 올바릅니다."
+  },
+  {
+      "sentence": "There isn’t any people here.",
+      "answer": "아님",
+      "rational": "'people'은 복수이므로 'aren’t'를 사용해야 합니다."
+  },
+  {
+      "sentence": "I wish I had more time.",
+      "answer": "맞음",
+      "rational": "가정법 과거 형태가 적절하게 사용되었습니다."
+  },
+  {
+      "sentence": "She’s enough old to travel alone.",
+      "answer": "아님",
+      "rational": "'enough'는 형용사 뒤에 와야 하므로 'old enough'가 맞습니다."
+  },
+  {
+      "sentence": "The students was very noisy.",
+      "answer": "아님",
+      "rational": "'students'는 복수이므로 'were'를 사용해야 합니다."
+  },
+  {
+      "sentence": "She studied hard and passed the exam.",
+      "answer": "맞음",
+      "rational": "두 개의 과거 시제가 자연스럽게 연결되어 있습니다."
+  },
+  {
+      "sentence": "Does she can play the violin?",
+      "answer": "아님",
+      "rational": "'Does'와 'can'을 함께 쓸 수 없으며, 'Can she play' 또는 'Does she play'로 써야 합니다."
+  },
+  {
+      "sentence": "The baby is crying loudly.",
+      "answer": "맞음",
+      "rational": "현재진행형과 부사의 조합이 자연스럽습니다."
+  },
+  {
+      "sentence": "That kind of shoes are expensive.",
+      "answer": "아님",
+      "rational": "'That kind of'는 단수 취급되므로 'is'가 맞습니다."
+  },
+  {
+      "sentence": "We didn’t went anywhere last weekend.",
+      "answer": "아님",
+      "rational": "'didn’t' 다음에는 동사 원형 'go'가 와야 합니다."
+  },
+  {
+      "sentence": "He is responsible for the mistake.",
+      "answer": "맞음",
+      "rational": "'be responsible for' 구문이 정확하게 사용되었습니다."
+  },
+  {
+      "sentence": "Everybody have their own room.",
+      "answer": "아님",
+      "rational": "'Everybody'는 단수이므로 'has'를 사용해야 합니다."
+  },
+  {
+      "sentence": "You need to take a break.",
+      "answer": "맞음",
+      "rational": "'need to + 동사원형' 구조가 정확히 사용되었습니다."
+  },
+  {
+      "sentence": "The number of students have increased.",
+      "answer": "아님",
+      "rational": "'The number of'는 단수 취급되므로 'has'가 맞습니다."
+  },
+  {
+      "sentence": "She don’t has a laptop.",
+      "answer": "아님",
+      "rational": "'don’t'는 'doesn’t'로, 'has'는 'have'로 고쳐야 하므로 'doesn’t have'가 맞습니다."
+  },
+  {
+      "sentence": "My uncle lives in Canada.",
+      "answer": "맞음",
+      "rational": "3인칭 단수 주어와 동사 'lives'의 현재시제가 잘 맞습니다."
+  },
+  {
+      "sentence": "There are a pen on the desk.",
+      "answer": "아님",
+      "rational": "'pen'은 단수이므로 'is'가 맞습니다."
+  },
+  {
+      "sentence": "Has she finished her homework yet?",
+      "answer": "맞음",
+      "rational": "현재완료 의문문 구조가 정확하게 사용되었습니다."
+  },
+  {
+      "sentence": "I can playing the piano.",
+      "answer": "아님",
+      "rational": "'can' 뒤에는 동사 원형 'play'가 와야 합니다."
+  },
+  {
+      "sentence": "We often go hiking on weekends.",
+      "answer": "맞음",
+      "rational": "빈도부사와 현재시제 조합이 자연스럽습니다."
+  },
+  {
+      "sentence": "He is boring during the meeting.",
+      "answer": "아님",
+      "rational": "'boring'은 사람의 성격을 나타낼 때 쓰이므로, 'bored'가 맞습니다."
+  },
+  {
+      "sentence": "Both of them are good at math.",
+      "answer": "맞음",
+      "rational": "'both of'는 복수 취급이므로 복수 동사 'are'가 올바르게 사용되었습니다."
+  },
+  {
+      "sentence": "Does she likes chocolate?",
+      "answer": "아님",
+      "rational": "'Does'와 함께 쓸 때는 동사 원형 'like'를 사용해야 합니다."
+  },
+  {
+      "sentence": "All the furniture was moved.",
+      "answer": "맞음",
+      "rational": "'furniture'는 불가산명사이므로 단수 동사 'was'가 맞습니다."
+  },
+  {
+      "sentence": "The sun rise in the east.",
+      "answer": "아님",
+      "rational": "3인칭 단수 주어 'sun'에는 'rises'가 맞습니다."
+  },
+  {
+      "sentence": "I met a friend who lives in Paris.",
+      "answer": "맞음",
+      "rational": "관계대명사 'who'가 자연스럽게 사람을 설명합니다."
+  },
+  {
+      "sentence": "He speaks English good.",
+      "answer": "아님",
+      "rational": "동사를 수식할 때는 형용사 'good'이 아닌 부사 'well'을 써야 합니다."
+  },
+  {
+      "sentence": "Is there any cheese left?",
+      "answer": "맞음",
+      "rational": "'cheese'는 불가산명사이고, 'Is there'와 잘 어울립니다."
+  },
+  {
+      "sentence": "It don’t matter to me.",
+      "answer": "아님",
+      "rational": "3인칭 단수 'it'에는 'doesn’t'를 사용해야 합니다."
+  },
+  {
+      "sentence": "Each of the players has a locker.",
+      "answer": "맞음",
+      "rational": "'Each'는 단수 취급되며, 'has'가 올바르게 사용되었습니다."
+  },
+  {
+      "sentence": "They has three kids.",
+      "answer": "아님",
+      "rational": "복수 주어 'they'에는 'have'를 사용해야 합니다."
+  },
+  {
+      "sentence": "He had gone before we arrived.",
+      "answer": "맞음",
+      "rational": "과거완료 시제와 과거 시제가 자연스럽게 연결되었습니다."
+  },
+  {
+      "sentence": "Whose is this bag?",
+      "answer": "맞음",
+      "rational": "의문대명사 'Whose'와 be동사의 구조가 올바릅니다."
+  },
+  {
+      "sentence": "She didn’t came to the meeting.",
+      "answer": "아님",
+      "rational": "'didn’t' 다음에는 동사 원형 'come'이 와야 합니다."
+  },
+  {
+      "sentence": "The weather is getting colder.",
+      "answer": "맞음",
+      "rational": "'get + 형용사' 형태로 변화 상태를 잘 나타내고 있습니다."
+  },
+  {
+      "sentence": "How long you have been living here?",
+      "answer": "아님",
+      "rational": "의문문 어순이 틀렸으며, 'have you been living'이 맞습니다."
+  },
+  {
+      "sentence": "He is afraid of flying.",
+      "answer": "맞음",
+      "rational": "'be afraid of' 뒤에 동명사 'flying'이 자연스럽게 쓰였습니다."
+  },
+  {
+      "sentence": "The water boil at 100 degrees Celsius.",
+      "answer": "아님",
+      "rational": "3인칭 단수 'water'에는 'boils'를 써야 합니다."
+  },
+  {
+      "sentence": "That sounds interesting.",
+      "answer": "맞음",
+      "rational": "감각동사 'sounds' 뒤에 형용사 'interesting'이 적절히 쓰였습니다."
+  },
+  {
+      "sentence": "My parents lives in Seoul.",
+      "answer": "아님",
+      "rational": "복수 주어 'parents'에는 동사 원형 'live'를 써야 합니다."
+  },
+  {
+      "sentence": "She goes to work by subway.",
+      "answer": "맞음",
+      "rational": "3인칭 단수 주어와 현재시제가 자연스럽게 사용되었습니다."
+  },
+  {
+      "sentence": "Do your brother live with you?",
+      "answer": "아님",
+      "rational": "단수 주어 'brother'에는 'Does'가 맞습니다."
+  },
+  {
+      "sentence": "The painting was created by a famous artist.",
+      "answer": "맞음",
+      "rational": "수동태 과거 시제 표현이 문법적으로 정확합니다."
+  },
+  {
+      "sentence": "Are she coming to the party?",
+      "answer": "아님",
+      "rational": "3인칭 단수 주어에는 'Is'를 사용해야 하므로 'Is she'가 맞습니다."
+  },
+  {
+      "sentence": "He doesn’t like to swim.",
+      "answer": "맞음",
+      "rational": "부정형 조동사 'doesn’t'와 동사 원형 'like'의 조합이 맞습니다."
+  },
+  {
+      "sentence": "All of the milk are gone.",
+      "answer": "아님",
+      "rational": "'milk'는 불가산명사이므로 'is gone'이 맞습니다."
+  },
+  {
+      "sentence": "She made me cry.",
+      "answer": "맞음",
+      "rational": "'make + 목적어 + 동사원형' 구조가 정확하게 사용되었습니다."
+  },
+  {
+      "sentence": "They was waiting for the bus.",
+      "answer": "아님",
+      "rational": "'They'는 복수 주어이므로 'were'가 맞습니다."
+  },
+  {
+      "sentence": "This is the most delicious cake I’ve ever had.",
+      "answer": "맞음",
+      "rational": "최상급 표현과 현재완료가 자연스럽게 연결되었습니다."
+  },
+  {
+      "sentence": "He enjoy watching movies.",
+      "answer": "아님",
+      "rational": "3인칭 단수 주어 'He'에는 'enjoys'가 맞습니다."
+  }
+]
